@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "/Users/vaidicj/Desktop/Vaadin-to-do/./frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/Users/vaidicj/Desktop/Vaadin-to-do/target/flow-frontend",
+  "staticOutput": "/Users/vaidicj/Desktop/Vaadin-to-do/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "/Users/vaidicj/Desktop/Vaadin-to-do/target/classes/META-INF/VAADIN/webapp",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "mytodo",
+  "clientServiceWorkerSource": "/Users/vaidicj/Desktop/Vaadin-to-do/target/sw.ts",
+  "pwaEnabled": true,
+  "offlineEnabled": true,
+  "offlinePath": "'.'"
+}
